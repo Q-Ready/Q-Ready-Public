@@ -5,7 +5,6 @@
 **Post-Quantum Cryptography Migration Assistant**
 
 ![Status](https://img.shields.io/badge/status-in_development-yellow)
-![Version](https://img.shields.io/badge/version-v0.7.0-blue)
 ![Python](https://img.shields.io/badge/python-3.12+-blue?logo=python&logoColor=white)
 ![NIST](https://img.shields.io/badge/NIST-FIPS_203%2F204%2F205-purple)
 ![Platform](https://img.shields.io/badge/agent-Windows_only-0078D4?logo=windows)
@@ -314,12 +313,6 @@ docs: update PROJET.md with scan endpoint tests
 ```
 
 Types: `feat` `fix` `refactor` `docs` `test` `chore` `perf` `ci`
-
----
-
-## Versions
-
-See [CHANGELOG.md](CHANGELOG.md) for the full version history.
 
 ---
 
